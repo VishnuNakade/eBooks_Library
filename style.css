@@ -241,6 +241,10 @@ nav .fa-solid{
         font-size: 35px;
 
     }
+    .header-text p {
+        color:#61b752;
+    }
+
     nav .fa-solid{
         display: block;
         font-size: 25px;
